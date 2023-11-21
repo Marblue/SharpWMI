@@ -34,6 +34,6 @@ jobs:
         # Artifact name
         name: test # optional, default is artifact
         # A file, directory or wildcard pattern that describes what to upload
-        path: D:\test\SharpWMI.exe
+        path: D:\a\SharpWMI\SharpWMI\SharpWMI\bin\Release\SharpWMI.exe
         # The desired behavior if no files are found using the provided path.
           
